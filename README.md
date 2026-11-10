@@ -1,10 +1,9 @@
-# Open-World RPG
+# StrandLine - Co-Op
 
-A work-in-progress, open-world multiplayer RPG built entirely with Unreal Engine Blueprints and c++
+A work-in-progress, open-world Co-Op physics sandbox zombie shooter
 
 Project Details
 **Engine:** Unreal Engine 5.8
-**Networking:** Fully network-replicated for multiplayer
 **Platform:** Linux and Windows 11/10
 
 ---
@@ -22,3 +21,6 @@ In Active Development
 **Character Customization:** Dynamic character model changer.
 **Open-World Map:** Foundational persistent landscape and world partition setup.
 **Boss Encounters:** Multi-phase boss mechanics and unique telegraph attacks.
+**Cars:** Drivable cars with destruction physics.
+**Biomes:** Multiple Biomes with difrent envirements and weather.
+
