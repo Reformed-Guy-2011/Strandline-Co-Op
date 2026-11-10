@@ -38,5 +38,3 @@ In Active Development
 
 **Lua Based Zombie system:** Write the zombie spawner and zombie into Lua.
 
-
-Trailer.mov
