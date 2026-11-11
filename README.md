@@ -40,5 +40,5 @@ In Active Development
 
 **Biomes:** Multiple Biomes with difrent envirements and weather.
 
-**Lua Based Zombie system:** Write the zombie spawner and zombie into Lua.
+
 
